@@ -1,0 +1,81 @@
+h1 {
+    color: green;
+}
+
+h2 {
+    color: blue
+}
+
+p strong {
+    color: red
+}
+
+p span {
+    color: rgb(255, 145, 0)
+}
+
+
+a em {
+    color: royalblue
+}
+
+p a {color: red}
+
+p .especial {
+    color: slateblue
+}
+
+p #especial {
+    color: purple
+}
+
+div p {
+    color: olive
+}
+
+div p span {
+    color: olive
+}
+
+div p a {
+    color: green
+}
+
+table {
+    border-style: solid;
+    border-width: 2px
+}
+
+
+
+caption {
+    color: blue;
+}
+
+thead tr {
+    color: rgb(255, 145, 0);
+}
+
+tbody {
+    color: seagreen;
+}
+
+tbody tr th {
+    color: red
+}
+
+tr .especial {
+    color: rgb(255, 145, 0)
+}
+
+tbody tr strong {
+    color: rgb(255, 145, 0)
+}
+
+tfoot {
+    color: red
+}
+
+a {
+    color: green
+}
